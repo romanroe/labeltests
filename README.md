@@ -9,7 +9,7 @@ fdsfjdsfdsfdsfds fdsjfk jds lfdsf
 - fsfdsfs
 - fjdfdslfs
 
-```
+```java
 Table personTable = lSql.table("person");
 
 // Option 1: java.util.Map
